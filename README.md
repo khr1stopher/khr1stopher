@@ -2,10 +2,11 @@
 
 <p align="center">
     <a href="mailto:kkromans009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="NPM"></a>
-    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="NPM"></a>
+    <a href="https://gitlab.com/khristopher_pineda" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"></a>
+    <a href="https://gitlab.com/khristopher_pineda" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
     <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
-    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
+    <a href="https://codepen.io/khristopher-pineda" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
+    
 </p>
 
 <img align="right" width="150px" src="https://i.pinimg.com/originals/d2/d6/95/d2d6959844e35107aa9cfe33cbf8bf04.jpg"  style="border-radius:50%"/>
