@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Khristopher and i'm a developer coding the Future! ヾ(⌐■_■)ノ♪
 
-<!--
-**khr1stopher/khr1stopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="mailto:kkromans009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="NPM"></a>
+    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="NPM"></a>
+    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
+    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
+</p>
 
-Here are some ideas to get you started:
+<img align="right" width="150px" src="https://i.pinimg.com/originals/d2/d6/95/d2d6959844e35107aa9cfe33cbf8bf04.jpg"  style="border-radius:50%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ Technology enthusiast, problem solver, and lifelong learner - that's who I am ~
