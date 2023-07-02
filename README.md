@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Khristopher and i'm a developer coding the Future! ヾ(⌐■_■)ノ♪
+### Hi there 👋, I'm Khristopher and i'm a developer coding the Future! ψ(｀∇´)ψ
 
 <p align="center">
     <a href="mailto:kkromans009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -16,11 +16,17 @@
 - :link: [personal website](https://khristopherpineda.vercell.app)
 
 <p>
+    <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+    <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white">
+    <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
 </p>
 
 ### Development Environment 🍻
 
-<p align="center">
-  <img alt="Apple Silicon M1 SoC" src="https://img.shields.io/badge/macOS(M1)-e03a3a?style=flat-square&logo=apple&logoColor=white">
-  <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
-</p>
