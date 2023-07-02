@@ -14,7 +14,7 @@
 ~ Technology enthusiast, problem solver, and lifelong learner - that's who I am ~
 
 - :globe_with_meridians: Spanish - English (learning)
-- :link: [personal website](https://khristopherpineda.vercell.app)
+- :link: [personal website](https://khristopherpineda.vercel.app)
 
 <p>
     <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
