@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Khristopher and i'm a Software Developer coding the Future! (╯‵□′)╯︵┻━┻
+### Hi there 👋, I'm Khristopher and i'm a Software Developer coding the Future! ヾ(•ω•`)o
 
 <p align="center">
     <a href="mailto:kkromans009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
