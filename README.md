@@ -11,7 +11,12 @@
 
 <img align="right" width="150px" src="https://i.pinimg.com/originals/d2/d6/95/d2d6959844e35107aa9cfe33cbf8bf04.jpg"  style="border-radius:50%"/>
 
-~ Technology enthusiast, problem solver, and lifelong learner - that's who I am ~
+🚀 Aspiring AI and Machine Learning enthusiast
+🤖 Currently exploring: AI, Machine Learning, LLMs, and TensorFlow
+💻 Building projects to apply and deepen my understanding of AI/ML concepts
+🌱 Always learning and contributing to open-source AI projects
+📊 Passionate about leveraging data and AI to solve real-world problems
+🔗 Check out my pinned repositories for my latest AI/ML projects!
 
 - :globe_with_meridians: Spanish - English (learning)
 - :link: [personal website](https://khristopherpineda.vercel.app)
