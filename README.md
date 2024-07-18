@@ -16,7 +16,7 @@
 
 <p>
 🚀 Aspiring AI and Machine Learning enthusiast <br>
-🤖 Currently exploring: AI, Machine Learning, LLMs, and TensorFlow <br>
+🤖 Currently exploring: Pandas, AI, Machine Learning, LLMs, and TensorFlow <br>
 💻 Building projects to apply and deepen my understanding of AI/ML concepts <br>
 🌱 Always learning and contributing to open-source AI projects <br>
 📊 Passionate about leveraging data and AI to solve real-world problems <br>
