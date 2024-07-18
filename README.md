@@ -11,6 +11,9 @@
 
 <img align="right" width="150px" src="https://i.pinimg.com/originals/d2/d6/95/d2d6959844e35107aa9cfe33cbf8bf04.jpg"  style="border-radius:50%"/>
 
+- :globe_with_meridians: Spanish - English (learning)
+- :link: [personal website](https://khristopherpineda.vercel.app)
+
 <p>
 🚀 Aspiring AI and Machine Learning enthusiast <br>
 🤖 Currently exploring: AI, Machine Learning, LLMs, and TensorFlow <br>
@@ -19,9 +22,6 @@
 📊 Passionate about leveraging data and AI to solve real-world problems <br>
 🔗 Check out my pinned repositories for my latest AI/ML projects! <br>
 </p>
-
-- :globe_with_meridians: Spanish - English (learning)
-- :link: [personal website](https://khristopherpineda.vercel.app)
 
 <p>
     <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
