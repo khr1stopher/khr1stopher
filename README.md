@@ -1,13 +1,10 @@
 ### Hi there 👋, I'm Khristopher and i'm a Software Developer coding the Future! ヾ(•ω•`)o
 
-<p align="center">
-    <a href="mailto:kkromans009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://gitlab.com/khristopher_pineda" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"></a>
-    <a href="https://gitlab.com/khristopher_pineda" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-    <a href="https://www.npmjs.com/~khr1stopher" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
-    <a href="https://codepen.io/khristopher-pineda" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
-    
-</p>
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:kkromans009@gmail.com)
+[![gitlab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/khristopher_pineda)
+[![email](https://skillicons.dev/icons?i=linkedin)](mailto:kkromans009@gmail.com)
+[![email](https://skillicons.dev/icons?i=npm)](mailto:kkromans009@gmail.com)
+[![email](https://skillicons.dev/icons?i=codepen)](mailto:kkromans009@gmail.com)
 
 - :globe_with_meridians: Spanish - English (learning)
 - :link: [personal website](https://khristopherpineda.vercel.app)
