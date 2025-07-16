@@ -19,7 +19,7 @@
 🔗 Check out my pinned repositories for my latest AI/ML projects! <br>
 </p>
 
-### Skills
+### SKILLS
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,fastapi,flask,react,vue,angular,c#,dotnet,kubernetes)](https://skillicons.dev)
 
