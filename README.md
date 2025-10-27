@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Khristopher and i'm a Software Developer coding the Future! ヾ(•ω•`)o
+# Hi, I'm a software developer coding the Future! 🚀
 
 ### My contact links
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:kkromans009@gmail.com)
@@ -7,7 +7,6 @@
 [![email](https://skillicons.dev/icons?i=npm)](mailto:kkromans009@gmail.com)
 [![email](https://skillicons.dev/icons?i=codepen)](mailto:kkromans009@gmail.com)
 
-- :globe_with_meridians: Spanish - English (learning)
 - :link: [personal website](https://khristopherpineda.vercel.app)
 
 <p>
